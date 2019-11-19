@@ -1,2 +1,2 @@
 # Biometrics-face-recognition-system
-EECS 495 Northwestern
+Use Face++ as the API for face recognition model.
